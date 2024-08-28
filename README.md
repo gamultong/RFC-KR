@@ -1,6 +1,6 @@
-# RFC-KR
+# rfc-kr
 
-RFC-KR은 RFC(Request for Comments) 문서를 한국어로 번역하는 프로젝트입니다.
+rfc-kr은 RFC(Request for Comments) 문서를 한국어로 번역하는 프로젝트입니다.
 
 <!-- 문서 열람은 docs 디렉터리에서 할 수 있다는 이야기 추가 필요 -->
 
